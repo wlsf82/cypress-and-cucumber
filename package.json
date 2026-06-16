@@ -4,7 +4,8 @@
   "description": "Project of the Cypress & Cucumber course from the Talking About Testing online school.",
   "main": "cypress.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open",
+    "test": "cypress run"
   },
   "repository": {
     "type": "git",
