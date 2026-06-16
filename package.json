@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/wlsf82/cypress-and-cucumber/issues"
   },
-  "homepage": "https://talkingabouttesting.school/courses/cypress-and-cucumber"
+  "homepage": "https://talkingabouttesting.school/courses/cypress-and-cucumber",
+  "devDependencies": {
+    "cypress": "^15.17.0"
+  }
 }
