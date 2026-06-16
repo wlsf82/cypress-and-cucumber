@@ -1,0 +1,27 @@
+{
+  "name": "cypress-and-cucumber",
+  "version": "1.0.0",
+  "description": "Project of the Cypress & Cucumber course from the Talking About Testing online school.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/cypress-and-cucumber.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "cucumber",
+    "talking-about-testing",
+    "cypress-and-cucumber-course"
+  ],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wlsf82/cypress-and-cucumber/issues"
+  },
+  "homepage": "https://talkingabouttesting.school/courses/cypress-and-cucumber"
+}
